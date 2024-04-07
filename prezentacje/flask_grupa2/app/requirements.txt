@@ -1,0 +1,3 @@
+flask-security-too[common] >= 5.4.3
+sqlalchemy >= 2.0.29
+pymysql >= 1.1.0
