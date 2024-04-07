@@ -1,4 +1,3 @@
-from unicodedata import name
 from database import Base
 from flask_security.core import UserMixin, RoleMixin
 from flask_security.datastore import AsaList
