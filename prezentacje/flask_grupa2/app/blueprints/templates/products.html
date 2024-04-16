@@ -1,0 +1,10 @@
+{% extends base.html %}
+
+{% content %}
+{% for entry in products %}
+<div class="card">
+    <h2>{{entry.name }}</h2>
+    <p>{{entry.desc}}</p>
+    <h6>{{entry.added}}</h6>
+</div>
+{% endfor %}
