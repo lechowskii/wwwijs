@@ -2,7 +2,6 @@
 ***Konieczne zdjęcie monolitu:***
 ![Zdjęcie monolitu z filmu "2001: A Space Odyssey" reż. Stanley Kubrick](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.d0CItZdVKO-oSYTvFRWy2wHaDX%26pid%3DApi&f=1&ipt=2f49dd68eeb4c4b6efc1721d201b1a8cb1200249db402bf09b45e1223a4edeef&ipo=images)
 
-[Link do prezentacji](https://docs.google.com/presentation/d/1yUMl0FLM4zLXJd3fJeIZaTlF35VI6FxmcOAWiTkUG_c/edit?usp=sharing)
 
 # Zawartość
 
